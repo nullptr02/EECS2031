@@ -18,3 +18,4 @@ do
   echo "Bypassing continue."
 done
 echo "Exit while loop."
+#this is a test
